@@ -8,7 +8,7 @@ Click ````Update & security```` and go to ````Select For Developers```` in the l
 
 Select ````Developer Mode```` under ````Use developer features```` if it's not already enabled.
 
-![Image of DEVMODE](/img\devmode-pc-options.png)
+![Image of DEVMODE](/img/devmode-pc-options.png)
 
 ## Step_2
 Navigate to the ````Control Panel```` (the old Windows control panel). You can get there by hitting ````Windows Key + X```` and selecting Control panel from the pop-up menu that appears.
@@ -20,7 +20,7 @@ Click ````Turn Windows features on or off.````
 
 Toggle ````Windows Subsystem for Linux (Beta)```` to on and click Ok and reboot your computer.
 
-![](img\turn-features-on.png)
+![](img/turn-features-on.png)
 
 ## Step_3
 You can install all of the dependencies with the command:
