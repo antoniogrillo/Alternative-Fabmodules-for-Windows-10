@@ -2,7 +2,7 @@
 @ ntngrillo
 
 ## Step_1
-Navigate to ````Settings````. You can get there by clicking the gear icon on the Start menu.
+Navigate to ````Settings````. You can get there by clicking on the gear icon in the Start menu.
 
 Click ````Update & security```` and go to ````Select For Developers```` in the left column.
 
